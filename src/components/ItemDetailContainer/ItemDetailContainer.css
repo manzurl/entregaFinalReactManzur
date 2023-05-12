@@ -1,0 +1,10 @@
+.ItemDetailContainer {
+  margin: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  gap: 2rem;
+  flex-wrap: wrap;
+  width: auto;
+  height: 50rem;
+}

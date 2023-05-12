@@ -1,0 +1,15 @@
+.CardItem {
+  border: 1px solid red;
+  border-radius: 1rem;
+  padding: 2rem;
+  align-items: center;
+  width: 20%;
+  height: auto;
+  max-height: 42rem;
+}
+.ItemImg {
+  max-width: 90%;
+  width: auto;
+  height: auto;
+  max-height: 40%;
+}

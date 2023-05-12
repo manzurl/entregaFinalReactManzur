@@ -1,0 +1,29 @@
+.contenedor {
+  display: flex;
+  padding: 2rem;
+  border: 1px solid #e01919;
+  margin-inline: 2rem;
+}
+.contenedor-detalle {
+  padding-left: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7rem;
+}
+
+.contenedor-imagen {
+  width: 10%;
+}
+.botones-operacion {
+  display: flex;
+  gap: 1rem;
+}
+.contenedor-botones {
+  display: flex;
+  gap: 3rem;
+}
+
+.contenedor-total {
+  margin: 5rem;
+}
